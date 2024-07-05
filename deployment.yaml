@@ -16,6 +16,6 @@ spec:
     spec:
       containers:
       - name: hello-world
-        image: kshun1207/mytomcat:13
+        image: kshun1207/mytomcat:14
         ports:
         - containerPort: 8080
